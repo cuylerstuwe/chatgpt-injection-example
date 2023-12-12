@@ -1,7 +1,7 @@
 const gulp = require("gulp");
 const { task, src, dest, parallel } = gulp;
 
-task("meepmeep", async () => {
+task("blahtest", async () => {
     console.log("Gulp is working");
     return true;
 });
